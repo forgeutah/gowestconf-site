@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://gowestconf.info/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "GoWest Conference"
+theme="dot"
